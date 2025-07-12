@@ -59,7 +59,7 @@ This single-page web app allows users to swipe through a curated stack of cat im
 
 ## 📂 Source Code
 
-👉 [View the public GitHub repository](https://github.com/yourusername/repo-name)
+👉 [View the public GitHub repository](https://github.com/Harivarma2409/paws_preferences)
 
 ---
 

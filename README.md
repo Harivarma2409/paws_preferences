@@ -53,7 +53,7 @@ This single-page web app allows users to swipe through a curated stack of cat im
 
 ## 🔗 Live Demo
 
-👉 [View the hosted app on GitHub Pages](https://yourusername.github.io/repo-name/)
+👉 [View the hosted app on GitHub Pages](https://harivarma2409.github.io/paws_preferences/)
 
 ---
 
